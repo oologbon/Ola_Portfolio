@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Olayiwola Ologbonde</title>
+    <link>https://oologbon.github.io/Ola_Portfolio/post/</link>
+    <description>Recent content in Projects on Olayiwola Ologbonde</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://oologbon.github.io/Ola_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Creating an EVE-NG Virtual Lab on Google Cloud Platform (GCP) with Nested Virtualization on Ubuntu </title>
+      <link>https://oologbon.github.io/Ola_Portfolio/post/project-1/</link>
+      <pubDate>Wed, 23 Aug 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://oologbon.github.io/Ola_Portfolio/post/project-1/</guid>
+      <description>Introduction: In this guide, we will walk through the process of setting up an EVE-NG virtual lab on Google Cloud Platform (GCP) with nested virtualization on an Ubuntu virtual machine. Nested virtualization allows us to run virtual machines inside another virtual machine, which is essential for hosting EVE-NG within the GCP cloud environment. We&amp;rsquo;ll be using Ubuntu as the base operating system and a custom boot image with nested virtualization enabled to run EVE-NG on GCP.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Log Monitoring with Bash Script</title>
+      <link>https://oologbon.github.io/Ola_Portfolio/post/project-2/</link>
+      <pubDate>Mon, 10 Apr 2023 11:00:59 -0400</pubDate>
+      
+      <guid>https://oologbon.github.io/Ola_Portfolio/post/project-2/</guid>
+      <description>Workflow:
+Configure Bash scripts on the Linux machine to monitor the Apache web server access logs, especially login attempts. Using the Windows machines on the network to access the Apache webserver to test if the bash scripts would capture the events. The bash script will also monitor HTTP status code in the web server. Monitoring HTTP status codes in web server logs could be very helpful in understanding the behavior of the web server and diagnosing any problems.</description>
+    </item>
+    
+  </channel>
+</rss>
